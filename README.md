@@ -1,0 +1,2 @@
+# langchain_handson
+LangchainでAIエージェントを作る
