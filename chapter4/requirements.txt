@@ -3,5 +3,7 @@ langchain>=0.3.26,<0.4
 langchain-community>=0.3.26,<0.4
 langgraph>=0.2.25,<0.3
 langchain-tavily>=0.2.13,<0.3
+langchain-aws>=0.2.7,<0.3     
 boto3>=1.35.76,<2
+botocore>=1.35.76,<2          
 python-dotenv>=1.0.1,<2
