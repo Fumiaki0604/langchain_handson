@@ -1,3 +1,7 @@
 streamlit==1.49.1
-strands-agents==1.6.0
-feedparser==6.0.11
+langchain==0.3.7
+langchain-community==0.3.7
+langgraph==0.2.25
+langchain-tavily==0.1.1
+boto3==1.35.18
+python-dotenv==1.0.1
